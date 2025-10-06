@@ -28,4 +28,8 @@ func main(){
 	*ptr=40
 	println(" The new value of number is:",num,ptr)
 
+	//Invokes function in hexa.go
+	binary()
+	random_num()
+
 }
