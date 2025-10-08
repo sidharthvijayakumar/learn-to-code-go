@@ -12,6 +12,7 @@ func exec6(){
 
 	d,e,f:=747,911,90210
 
+
 	fmt.Printf("%d in decimal is %d, in binary is %b and in hexadeciam is %#x\n",d,d,d,d)
 	fmt.Printf("%d in decimal is %d, in binary is %b and in hexadeciam is %#x\n",e,e,e,e)
 	fmt.Printf("%d in decimal is %d, in binary is %b and in hexadeciam is %#x\n",f,f,f,f)
